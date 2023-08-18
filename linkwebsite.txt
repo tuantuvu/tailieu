@@ -6,5 +6,11 @@ https://v1study.com/csharp-c-sharp-mot-so-phim-tat-thuong-dung-trong-visual-stud
 -----------------------------------------------------------------------
 --Link phim tac Visual Studio
 -----------------------------------------------------------------------
-
 https://shareprogramming.net/tong-hop-35-lenh-git-co-ban/
+
+-----------------------------------------------------------------------
+--Link tài liệu LINQ
+-----------------------------------------------------------------------
+https://codelearn.io/sharing/linq-la-gi-va-no-hoat-dong-nhu-the-nao
+https://viblo.asia/p/linq-trong-c-6J3ZgpgxlmB
+https://www.codelean.vn/2022/07/tu-hoc-c-09-lists-va-linq.html
